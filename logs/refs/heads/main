@@ -1,0 +1,5 @@
+0000000000000000000000000000000000000000 185439bbd2df91aeaa9771363294b00f67cedba6 Replit Agent <agent@replit.com> 1782359813 +0000	commit (initial): Initial commit
+185439bbd2df91aeaa9771363294b00f67cedba6 8454c1d138ac4a7fbedc8d8f66ea498d9bc8d4ae Replit Agent <agent@replit.com> 1782471502 +0000	commit: Set up the initial project structure with core components and routing
+8454c1d138ac4a7fbedc8d8f66ea498d9bc8d4ae b903f980372674eea5908c2efce7234c3a129a41 Replit Agent <agent@replit.com> 1782473146 +0000	commit: Update application preview image for better visual representation
+b903f980372674eea5908c2efce7234c3a129a41 7c59efae49c5d353fb3b0dc42aaa704f54047bc5 Replit Agent <agent@replit.com> 1782473608 +0000	commit: Connect application to Supabase and implement authentication system
+7c59efae49c5d353fb3b0dc42aaa704f54047bc5 a23479572d3c961668c4a7a3943c47fe7e6844fd Replit Agent <agent@replit.com> 1782474788 +0000	commit: Add comprehensive customer management module with detailed profiles and actions
